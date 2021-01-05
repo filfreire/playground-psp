@@ -48,10 +48,6 @@ pack-pbp EBOOT.PBP PARAM.SFO NULL  \
 - You can either run it on an emulator like [`PPSSPP`](http://ppsspp.org/downloads.html)
 - If your PSP is modded to run homebrew software (e.g. runs on Custom Firmware), you can copy paste the `EBOOT.PBP` file to your PSP memory card, following a path like: `PSP/GAME/<some-name-of-your-choice>/EBOOT.PBP`
 
-End result should look similar to this:
-
-![psp_example](./psp_example.jpg)
-
 ## Resources
 
 - [hello world on psp-dev.org](https://psp-dev.org/doku.php?id=tutorial:hello_world)
